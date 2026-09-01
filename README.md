@@ -1,5 +1,3 @@
-# Pagewright-
-Merge, reorder &amp; split PDF pages by dragging thumbnails - portable. offline Windows PDF editor. No install, no watermark, no upload
 # Pagewright — Visual PDF Page Editor for Windows
 
 **Merge, reorder, rotate and split PDF pages by dragging thumbnails — 100% offline, no upload, no watermark, no install required.**
